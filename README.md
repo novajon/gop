@@ -1,4 +1,4 @@
-## The Go+ language for engineering, STEM education, and data science
+## The Go+ language for engineering
 
 [![Build Status](https://github.com/goplus/gop/actions/workflows/go.yml/badge.svg)](https://github.com/goplus/gop/actions/workflows/go.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/goplus/gop)](https://goreportcard.com/report/github.com/goplus/gop)
